@@ -86,7 +86,10 @@ If the game crashes or freezes, also say what you were doing right before it.
 
 ## Screenshots
 
-<!-- Add screenshots here -->
+![Screenshot](https://github.com/user-attachments/assets/59cb66f9-915d-4559-8a77-d65660e2d33c)
+![Screenshot](https://github.com/user-attachments/assets/a0d8a9be-186a-4005-836f-e9056eff1e48)
+![Screenshot](https://github.com/user-attachments/assets/0e0ddf1f-369b-4602-9a8e-307f444e4cf7)
+
 
 ## Credits
 
